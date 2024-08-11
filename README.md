@@ -1,9 +1,11 @@
 - 👋 Hi, I’m @Baugle
 - 👀 I’m interested in game and C++\C\CSharp
 - 🌱 I’m currently learning C++ and C#
-- 💞️ I’m looking to collaborate on 2Take1
+- 💞️ I am interested in Qt, memory, etc.
 - 📫 How to reach me   "gongfuji1688@gmail.com"
 - 🧡 I want to travel to the world
+- 👽 Join Github on 2022-01-29T13:44:23Z
+- 💩 If you like me, please add Star for me
 <!---
 Simpsons-Bart/Simpsons-Bart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
