@@ -1,3 +1,4 @@
+# Me
 - 👋 Hi, I’m @Baugle
 - 👀 I’m interested in game and C++\C\CSharp
 - 🌱 I’m currently learning C++ and C#
@@ -7,7 +8,9 @@
 - 👽 Join Github on 2022-01-29T13:44:23Z
 - 💩 If you like me, please add Star for me
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baugle)](https://github.com/anuraghazra/github-readme-stats)
+# My GitHub stats
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baugle)](https://github.com/anuraghazra/github-readme-stats)  
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Baugle&show_icons=true)
 <!---
 Simpsons-Bart/Simpsons-Bart is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
